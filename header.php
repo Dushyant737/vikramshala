@@ -97,7 +97,8 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="/" class=<?php echo $activePage == 'index' ? 'active' : '' ?> >Home</a></li>
-                        <li><a href="about-us.php" class=<?php echo $activePage == 'about-us' ? 'active' : '' ?> >About us</a></li>
+			<li><a href="about-us.php" class=<?php echo $activePage == 'about-us' ? 'active' : '' ?> >About us</a></li>
+<li><a href="career.php" class=<?php echo $activePage == 'career' ? 'active' : '' ?> >Career</a></li>
                         <li><a href="services.php" class=<?php echo $activePage == 'services' ? 'active' : ''  ?> >Our Services</a></li>
                         <li><a href="portfolio.php" class="<?php  echo $activePage == 'portfolio'  ? 'active' : ''  ?>">Portfolio</a></li>
                         <li><a href="features.php" class="<?php  echo $activePage == 'features' ? 'active' : ''  ?>">Features</a></li>
