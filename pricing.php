@@ -93,9 +93,9 @@
                             </div>
                         </div>
                         <ul class="pricing-content">
-                            <li>70GB Disk Space</li>
+                            <li>70 GB Disk Space</li>
                             <li>70 Email Accounts</li>
-                            <li>70GB Monthly Bandwidth</li>
+                            <li>70 GB Monthly Bandwidth</li>
                             <li>20 Subdomains</li>
                             <li>25 Domains</li>
                         </ul>
